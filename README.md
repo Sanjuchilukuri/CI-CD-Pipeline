@@ -2,7 +2,7 @@
 A comprehensive CI/CD pipeline setup using Jenkins, Tomcat, Nexus, and SonarQube.
 
 ## Overview
-![IMAGE]()
+![IMAGE](https://github.com/Sanjuchilukuri/CI-CD-Pipeline/blob/main/Image/overview.jpg)
 This project showcases a robust CI/CD pipeline built using Jenkins, seamlessly integrating with Nexus for artifact management, SonarQube for code quality checks, and Tomcat for deployment. Comprehensive setup and configuration guides ensure smooth adoption and scalability for DevOps endeavors.
 
 ## Table of Contents
