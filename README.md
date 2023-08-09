@@ -30,17 +30,13 @@ Detailed guides for setting up each tool:
 ### Tomcat
 - [Installation & Configuration Guide](./Tomcat-Setup/INSTALL.md)
 - [Security Configurations](./Tomcat-Setup/SECURITY.md)
-- [Deployment Guide](./Tomcat-Setup/DEPLOYMENT.md)
 
 ### Nexus
 - [Installation & Configuration Guide](./Nexus-Setup/INSTALL.md)
-- [Repository Creation](./Nexus-Setup/REPO.md)
-- [Artifact Management](./Nexus-Setup/ARTIFACT.md)
+
 
 ### SonarQube
 - [Installation & Configuration Guide](./SonarQube-Setup/INSTALL.md)
-- [Scanner Setup](./SonarQube-Setup/SCANNER.md)
-- [Code Quality Metrics](./SonarQube-Setup/METRICS.md)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
